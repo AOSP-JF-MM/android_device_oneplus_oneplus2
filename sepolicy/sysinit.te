@@ -1,1 +1,2 @@
+type sysinit, domain;
 ﻿allow sysinit rootfs:lnk_file getattr;
