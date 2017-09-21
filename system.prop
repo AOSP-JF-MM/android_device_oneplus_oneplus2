@@ -147,3 +147,6 @@ persist.timed.enable=true
 
 # Wifi
 persist.data.iwlan.enable=true
+
+# NavBar
+qemu.hw.mainkeys=0
