@@ -320,7 +320,8 @@ PRODUCT_PACKAGES += \
 
 # WiFi HAL
 PRODUCT_PACKAGES += \
-    android.hardware.wifi@1.0-service
+    android.hardware.wifi@1.0-service \
+    android.hardware.wifi@1.0
 
 # WiFi
 PRODUCT_PACKAGES += \
